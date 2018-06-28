@@ -1,0 +1,27 @@
+{
+  "name": "cordovaplugincommandsexecutor",
+  "version": "0.1.0",
+  "description": "",
+  "cordova": {
+    "id": "cordovaplugincommandsexecutor",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maarqin/cordovaplugincommandsexecutor.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Marcos Thomaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maarqin/cordovaplugincommandsexecutor/issues"
+  },
+  "homepage": "https://github.com/maarqin/cordovaplugincommandsexecutor#readme"
+}
